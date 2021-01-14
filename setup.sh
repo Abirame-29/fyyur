@@ -1,1 +1,1 @@
-set DATABASE_URL=postgres://abirame:developer@localhost:5432/fyyur
+set DATABASE_URL=postgres://vfnnyhaoiiyngl:f4750b9320139decf9b7069c80528bdc3e9c0b71f509f5fc070e1bc9b8d516b6@ec2-54-156-73-147.compute-1.amazonaws.com:5432/d2oll43lactub6
