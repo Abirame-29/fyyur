@@ -38,7 +38,7 @@ py==1.10.0
 pyasn1==0.4.8
 pycodestyle==2.6.0
 pycparser==2.20
-PyJWT==2.0.0
+PyJWT==1.7.1
 pylint==2.6.0
 pylint-flask==0.6
 pylint-flask-sqlalchemy==0.2.0
